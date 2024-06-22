@@ -1,16 +1,20 @@
 <div align="center">
-  <h1>Salve, devs 👋🏻</h1>
-  <img height=8% width=8% src="https://github.com/Cianeto/Cianeto/assets/97137926/45dd2041-10fd-4943-966c-3f801d2ffaa8"/>
-  <img height=8% width=8% src="https://github.com/Cianeto/Cianeto/assets/97137926/45dd2041-10fd-4943-966c-3f801d2ffaa8"/>
-  <img height=8% width=8% src="https://github.com/Cianeto/Cianeto/assets/97137926/45dd2041-10fd-4943-966c-3f801d2ffaa8"/>
-  <img height=8% width=8% src="https://github.com/Cianeto/Cianeto/assets/97137926/45dd2041-10fd-4943-966c-3f801d2ffaa8"/>
-  <img height=8% width=8% src="https://github.com/Cianeto/Cianeto/assets/97137926/45dd2041-10fd-4943-966c-3f801d2ffaa8"/>
-  <img height=8% width=8% src="https://github.com/Cianeto/Cianeto/assets/97137926/45dd2041-10fd-4943-966c-3f801d2ffaa8"/>
-  <img height=8% width=8% src="https://github.com/Cianeto/Cianeto/assets/97137926/45dd2041-10fd-4943-966c-3f801d2ffaa8"/>
-  <img height=8% width=8% src="https://github.com/Cianeto/Cianeto/assets/97137926/45dd2041-10fd-4943-966c-3f801d2ffaa8"/>
-  <img height=8% width=8% src="https://github.com/Cianeto/Cianeto/assets/97137926/45dd2041-10fd-4943-966c-3f801d2ffaa8"/>
-  <img height=8% width=8% src="https://github.com/Cianeto/Cianeto/assets/97137926/45dd2041-10fd-4943-966c-3f801d2ffaa8"/>
-  <img height=8% width=8% src="https://github.com/Cianeto/Cianeto/assets/97137926/45dd2041-10fd-4943-966c-3f801d2ffaa8"/>
+  <img align="left" width="50" src="https://github.com/Cianeto/Cianeto/assets/97137926/4b2f2073-50cd-447f-a13f-b82c8934894c"/>
+  <img align="right" width="50" src="https://github.com/Cianeto/Cianeto/assets/97137926/4b2f2073-50cd-447f-a13f-b82c8934894c"/>
+  <h1 align="center">
+    <b>Salve, devs</b>
+    <img width="35" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
+  </h1>
+  <img height=8% width=8% src="https://github.com/Cianeto/Cianeto/assets/97137926/aec65b20-636a-4433-a56e-5fbb507cae39"/>
+  <img height=8% width=8% src="https://github.com/Cianeto/Cianeto/assets/97137926/aec65b20-636a-4433-a56e-5fbb507cae39"/>
+  <img height=8% width=8% src="https://github.com/Cianeto/Cianeto/assets/97137926/aec65b20-636a-4433-a56e-5fbb507cae39"/>
+  <img height=8% width=8% src="https://github.com/Cianeto/Cianeto/assets/97137926/aec65b20-636a-4433-a56e-5fbb507cae39"/>
+  <img height=8% width=8% src="https://github.com/Cianeto/Cianeto/assets/97137926/aec65b20-636a-4433-a56e-5fbb507cae39"/>
+  <img height=8% width=8% src="https://github.com/Cianeto/Cianeto/assets/97137926/aec65b20-636a-4433-a56e-5fbb507cae39"/>
+  <img height=8% width=8% src="https://github.com/Cianeto/Cianeto/assets/97137926/aec65b20-636a-4433-a56e-5fbb507cae39"/>
+  <img height=8% width=8% src="https://github.com/Cianeto/Cianeto/assets/97137926/aec65b20-636a-4433-a56e-5fbb507cae39"/>
+  <img height=8% width=8% src="https://github.com/Cianeto/Cianeto/assets/97137926/aec65b20-636a-4433-a56e-5fbb507cae39"/>
+  <img height=8% width=8% src="https://github.com/Cianeto/Cianeto/assets/97137926/aec65b20-636a-4433-a56e-5fbb507cae39"/>
   <h3>Meu nome é Gabriel Melo, sou um entusiasta da tecnologia apaixonado por explorar o mundo digital</h3>
   <h4>👨🏻‍🎓 e também um estudante de ADS na faculdade estadual <a href="https://www.faeterj-rio.edu.br/">FAETERJ-RIO</a>.</h4>
 </div>
@@ -23,7 +27,7 @@ Um dos meus sonhos sempre foi entender o que acontece por trás de toda a tecnol
 
 ### 🧙🏻 Possuo experiência em:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+<!-- https://github.com/Cianeto/Cianeto/assets/97137926/488019ba-91fb-4b01-bcdb-5272c2e1e675 -->
 ### 🔨 Ferramentas que uso:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
