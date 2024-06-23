@@ -34,7 +34,7 @@ Um dos meus sonhos sempre foi entender o que acontece por trás de toda a tecnol
 <br><br>
 <div align="center">
   <h1>📈 Stats:</h1>
-  <img height=199.94 src="https://streak-stats.demolab.com/?user=Cianeto&theme=radical"/>
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cianeto&layout=compact&theme=radical&langs_count=20"/>
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=Cianeto&show_icons=true&theme=radical"/>
+  <img height=199.94 src="https://streak-stats.demolab.com/?user=Cianeto&theme=radical"/>
 </div>
