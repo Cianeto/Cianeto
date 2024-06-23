@@ -17,7 +17,7 @@ Um dos meus sonhos sempre foi entender o que acontece por trás de toda a tecnol
 ### 👨🏻‍💻 Atualmente estudando:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img align="right" width="400" src="https://github.com/Cianeto/Cianeto/assets/97137926/d071c4b3-4fe3-4e06-889b-32a75eef806f"/>
+<img align="right" width="400" src="https://github.com/Cianeto/Cianeto/assets/97137926/cd5679d4-7963-4aa8-bbff-651436a5e738"/>
 
 ### 🧙🏻 Possuo experiência em:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -31,6 +31,7 @@ Um dos meus sonhos sempre foi entender o que acontece por trás de toda a tecnol
 ### 🗿 Outros:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Shianeto/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25422378/shyanide) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/cianeto/) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/shyanide)
 
+<br><br>
 <div align="center">
   <h1>📈 Stats:</h1>
   <img height=199.94 src="https://streak-stats.demolab.com/?user=Cianeto&theme=radical"/>
