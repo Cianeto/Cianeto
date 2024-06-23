@@ -2,7 +2,7 @@
 <img align="right" width="52" src="https://github.com/Cianeto/Cianeto/assets/97137926/4b2f2073-50cd-447f-a13f-b82c8934894c"/>
 <div align="center">
   <h1 align="center">
-    <b>Salve, devs</b>
+    <b>Welcome &lt;developers/&gt;</b>
     <img width="35" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
   </h1>
   <img align="left" width="85" src="https://github.com/Cianeto/Cianeto/assets/97137926/aec65b20-636a-4433-a56e-5fbb507cae39"/>
