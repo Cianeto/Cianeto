@@ -1,3 +1,4 @@
+<img align="left" width="52" src="https://github.com/Cianeto/Cianeto/assets/97137926/4b2f2073-50cd-447f-a13f-b82c8934894c"/>
 <img align="right" width="52" src="https://github.com/Cianeto/Cianeto/assets/97137926/4b2f2073-50cd-447f-a13f-b82c8934894c"/>
 <div align="center">
   <h1 align="center">
