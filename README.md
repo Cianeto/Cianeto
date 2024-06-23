@@ -7,8 +7,8 @@
   </h1>
   <img align="left" width="85" src="https://github.com/Cianeto/Cianeto/assets/97137926/aec65b20-636a-4433-a56e-5fbb507cae39"/>
   <img align="right" width="85" src="https://github.com/Cianeto/Cianeto/assets/97137926/aec65b20-636a-4433-a56e-5fbb507cae39"/>
-  <h3>Meu nome é Gabriel Melo, sou um entusiasta da tecnologia apaixonado por explorar o mundo digital.</h3>
-  <h3>👨🏻‍🎓 Além disso, sou estudante de ADS na Faculdade Estadual <a href="https://www.faeterj-rio.edu.br/">FAETERJ-RIO</a>.</h3>
+  <h3>Meu nome é Gabriel Melo e sou um entusiasta da tecnologia apaixonado por explorar o mundo digital.</h3>
+  <h4>>>👨🏻‍🎓 Estudante de ADS na Faculdade Estadual <a href="https://www.faeterj-rio.edu.br/">FAETERJ-RIO</a>.</h4>
 </div>
 
 ### 🎭 Uma reflexão minha..
