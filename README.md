@@ -31,7 +31,7 @@ Um dos meus sonhos sempre foi entender o que acontece por trás de toda a tecnol
 ### 🗿 Outros:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Shianeto/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25422378/shyanide) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/cianeto/) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/shyanide)
 
-<br><br>
+<br>
 <div align="center">
   <h1>📈 Stats:</h1>
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cianeto&layout=compact&theme=radical&langs_count=20"/>
