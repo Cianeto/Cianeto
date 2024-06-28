@@ -19,7 +19,7 @@ Um dos meus sonhos sempre foi entender o que acontece por trás de toda a tecnol
 
 <img align="right" width="350" src="https://github.com/Cianeto/Cianeto/assets/97137926/cd5679d4-7963-4aa8-bbff-651436a5e738"/>
 
-### 🧙🏻 Possuo experiência em:
+### 🧙🏻 Possuo noções de:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 🔨 Ferramentas que uso:
