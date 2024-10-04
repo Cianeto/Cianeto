@@ -11,9 +11,6 @@
   <h4>>>👨🏻‍🎓 Estudante de ADS na Faculdade Estadual <a href="https://www.faeterj-rio.edu.br/">FAETERJ-RIO</a>.</h4>
 </div>
 
-### 🎭 Uma reflexão minha...
-Um dos meus sonhos sempre foi entender o que acontece por trás de toda a tecnologia dos computadores. Parece até magia, não é mesmo? Mas quando você realmente compreende o funcionamento, tudo se encaixa. Desejo desmistificar essa informação criptografada e dar vida às minhas próprias criações, todas elas envolvidas nesse mistério.
-
 ### 👨🏻‍💻 Atualmente estudando:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 
