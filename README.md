@@ -11,7 +11,7 @@
   <h4>>>👨🏻‍🎓 Estudante de ADS na Faculdade Estadual <a href="https://www.faeterj-rio.edu.br/">FAETERJ-RIO</a>.</h4>
 </div>
 
-### 🎭 Uma reflexão minha..
+### 🎭 Uma reflexão minha...
 Um dos meus sonhos sempre foi entender o que acontece por trás de toda a tecnologia dos computadores. Parece até magia, não é mesmo? Mas quando você realmente compreende o funcionamento, tudo se encaixa. Desejo desmistificar essa informação criptografada e dar vida às minhas próprias criações, todas elas envolvidas nesse mistério.
 
 ### 👨🏻‍💻 Atualmente estudando:
