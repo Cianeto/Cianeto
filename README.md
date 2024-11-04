@@ -11,7 +11,7 @@
   <h4>>>👨🏻‍🎓 Estudante de ADS na Faculdade Estadual <a href="https://www.faeterj-rio.edu.br/">FAETERJ-RIO</a>.</h4>
 </div>
 
-<img align="right" width="350" src="https://github.com/Cianeto/Cianeto/assets/97137926/cd5679d4-7963-4aa8-bbff-651436a5e738"/>
+<img align="right" width="280" src="https://github.com/Cianeto/Cianeto/assets/97137926/cd5679d4-7963-4aa8-bbff-651436a5e738"/>
 
 ### 🧙🏻 Possuo noções de:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
